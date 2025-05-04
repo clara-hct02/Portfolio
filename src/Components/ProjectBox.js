@@ -5,7 +5,7 @@ import {CgFileDocument} from "react-icons/cg";
 
 const  ProjectBox = ({projectPhoto, projectName}) => {
   const desc = {
-    TindogDesc : "This website is a landing page of Tinder but for dogs. It is a responsive website which was made to understand Bootstrap. I also learned how to host my project on Github and then how to deploy that project using Github pages.",
+    SectionInsightsDesc : "This website is a landing page of Tinder but for dogs. It is a responsive website which was made to understand Bootstrap. I also learned how to host my project on Github and then how to deploy that project using Github pages.",
     TindogGithub : "https://github.com/DevanshSahni/tindog",
     TindogWebsite : "https://devanshsahni.github.io/tindog/",
 

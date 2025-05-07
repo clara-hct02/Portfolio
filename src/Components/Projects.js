@@ -28,7 +28,7 @@ const projects = [
       photo: "",
       desc:"A Java Swing app that mimics music players, allowing users to create playlists and add songs.",
       github:"https://github.com/clara-hct02/Music-Player-Simulator",
-      demo:""
+      demo:"https://youtu.be/G2-5XmbG0UY"
     }
   ]
 

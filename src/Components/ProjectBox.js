@@ -20,9 +20,11 @@ const  ProjectBox = ({projectName, projectPhoto, projectDesc, github, demo}) => 
               </a>
             )}
 
-            <a href={demo} target='_blank' rel="noopener noreferrer">
-              <button className='projectbtn'><CgFileDocument /> Demo</button>
-            </a>
+            {demo && (
+              <a href={demo} target='_blank' rel="noopener noreferrer">
+                <button className='projectbtn'><CgFileDocument /> Demo</button>
+              </a>
+            )}
         </div>
     </div>
   )
